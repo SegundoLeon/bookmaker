@@ -1,0 +1,5 @@
+{
+    "heroesUrl": "api/heroes",
+    "textfile": "assets/textfile.txt",
+    "urllogin": "http://bookmarks-api-cakephp.webtraining.zone/users.json"
+}
